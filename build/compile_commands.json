@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/azamat/CLionProjects/cp/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\cp.dir\\c.cpp.obj -c C:\\Users\\azamat\\CLionProjects\\cp\\c.cpp",
+  "file": "C:/Users/azamat/CLionProjects/cp/c.cpp",
+  "output": "CMakeFiles/cp.dir/c.cpp.obj"
+}
+]
