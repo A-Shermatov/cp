@@ -1,3 +1,0 @@
-C:/Users/azamat/CLionProjects/cp/cmake-build-debug/CMakeFiles/cp.dir
-C:/Users/azamat/CLionProjects/cp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/azamat/CLionProjects/cp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
