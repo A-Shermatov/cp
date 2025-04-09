@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/azamat/CLionProjects/cp/project_euler/archive",
-      "program": "c:/Users/azamat/CLionProjects/cp/project_euler/archive/build/Debug/outDebug",
+      "cwd": "c:/Users/azamat/CLionProjects/cp/cf/educ_round",
+      "program": "c:/Users/azamat/CLionProjects/cp/cf/educ_round/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
